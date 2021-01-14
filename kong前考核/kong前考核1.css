@@ -1,0 +1,47 @@
+    .wwx img {
+        width: 600px;
+        float: left;
+        animation: 8s soldee infinite;
+    }
+    
+    .wwx {
+        margin: 150px 0 0 300px;
+        width: 600px;
+        height: 337.5px;
+        overflow: hidden;
+        box-shadow: 3px 3px 30px #888888;
+    }
+    
+    body {
+        background-color: black;
+    }
+    
+    .dream {
+        width: 9999px;
+        height: 9999px;
+    }
+    
+    @keyframes soldee {
+        0% {}
+        25% {
+            transform: translateX(0px);
+        }
+        35% {
+            transform: translateX(-600px);
+        }
+        50% {
+            transform: translateX(-600px);
+        }
+        60% {
+            transform: translateX(-1200px);
+        }
+        75% {
+            transform: translateX(-1200px);
+        }
+        85% {
+            transform: translateX(-1800px);
+        }
+        100% {
+            transform: translateX(-1800px);
+        }
+    }
