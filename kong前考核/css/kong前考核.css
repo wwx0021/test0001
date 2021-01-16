@@ -1022,6 +1022,6 @@
         /* 去掉通过伪类添加的下边框 */
     }
     
-    .lian1 {
+    .login a {
         color: white;
     }
