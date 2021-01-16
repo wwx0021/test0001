@@ -58,6 +58,7 @@ body {
     font: 12px/1.5 tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
     /*字体、行高（最好用1.5这种方式来表示，其他的会有麻烦）、宋体*/
     color: #3c3c3c;
+    width: 1264px;
     background-color: #f4f4f4;
 }
 

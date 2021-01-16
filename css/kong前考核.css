@@ -1021,3 +1021,7 @@
         border: none;
         /* 去掉通过伪类添加的下边框 */
     }
+    
+    .login a {
+        color: white;
+    }

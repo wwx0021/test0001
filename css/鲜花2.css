@@ -1,0 +1,346 @@
+body {
+    background: #F5E5F0;
+}
+
+.dahezi {
+    margin: 0 auto
+}
+
+
+/*顶部*/
+
+.top {
+    width: 1500px;
+    height: 70px;
+    background: #F1D2E4
+}
+
+.top_left {
+    width: 530px;
+    height: 65px;
+    font-family: 方正兰亭超细黑简体;
+    font-size: 40px;
+    float: left;
+    margin-left: -50px;
+    margin-top: 5px;
+    font-weight: bold
+}
+
+img {
+    margin-bottom: 10px
+}
+
+.top_right {
+    float: left;
+    width: 700px;
+    height: 70px;
+    margin-left: 130px
+}
+
+.top_right ul li {
+    float: left;
+    width: 175px;
+    height: 70px;
+}
+
+.top_right a {
+    font-family: 方正兰亭超细黑简体;
+    font-size: 25px;
+    width: 175px;
+    height: 70px;
+    display: block;
+    text-align: center;
+    line-height: 70px;
+    font-weight: bold
+}
+
+.top_left a:hover {
+    color: #000000
+}
+
+.top_right a:hover {
+    color: #FFFFFF;
+    background: #C7EAED
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+/*顶部结束*/
+
+.banner {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 20px
+}
+
+
+/*鲜花部分*/
+
+.hua {
+    width: 1500px;
+    height: 50px;
+    margin-left: 165px
+}
+
+p.xianhua {
+    font-family: 微软雅黑;
+    font-size: 25px;
+    float: left;
+    width: 70px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 5px
+}
+
+p.meili {
+    font-family: 方正兰亭超细黑简体;
+    font-size: 18px;
+    float: left;
+    width: 150px;
+    height: 35px;
+    margin-top: 15px
+}
+
+.xianhuahezi {
+    width: 1500px;
+    height: 820px;
+    padding: 10px;
+    margin: 0 auto
+}
+
+.xianhuahezi ul li {
+    float: left;
+    width: 320px;
+    height: 360px;
+    text-align: center;
+    padding-top: 50px;
+    border: 1px solid #F5E5F0;
+    margin-left: 90px
+}
+
+.xianhuahezi ul li:hover {
+    border-radius: 20px;
+    border: 1px solid #A7A7A7;
+}
+
+.xianhuahezi ul li a {
+    font-family: 微软雅黑;
+    font-size: 25px;
+}
+
+.xianhuahezi ul li a:hover {
+    color: #E300A2;
+}
+
+
+/*鲜花部分结束*/
+
+.xianhuahezi {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 50px
+}
+
+
+/*蛋糕部分*/
+
+.dangao {
+    width: 1500px;
+    height: 50px;
+    margin-left: 165px
+}
+
+p.tianpin {
+    font-family: 微软雅黑;
+    font-size: 25px;
+    float: left;
+    width: 70px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 5px
+}
+
+p.meiwei {
+    font-family: 方正兰亭超细黑简体;
+    font-size: 18px;
+    float: left;
+    width: 150px;
+    height: 35px;
+    margin-top: 15px
+}
+
+.dangaohezi {
+    width: 1500px;
+    height: 820px;
+    padding: 10px;
+    margin: 0 auto
+}
+
+.dangaohezi ul li {
+    margin-left: 100px;
+    float: left;
+    width: 320px;
+    height: 360px;
+    border: 1px solid #F5E5F0;
+    text-align: center;
+    padding-top: 50px
+}
+
+.dangaohezi ul li:hover {
+    border-radius: 20px;
+    border: 1px solid #A7A7A7
+}
+
+.dangaohezi ul li a {
+    font-family: 微软雅黑;
+    font-size: 25px;
+}
+
+.dangaohezi ul li a:hover {
+    color: #E300A2;
+}
+
+
+/*蛋糕部分结束*/
+
+.dangaohezi {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 30px
+}
+
+
+/*花语部分*/
+
+.huayu {
+    width: 1500px;
+    height: 50px;
+    margin-left: 165px
+}
+
+p.yu {
+    font-family: 微软雅黑;
+    font-size: 25px;
+    float: left;
+    width: 70px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 5px
+}
+
+p.nuanxin {
+    font-family: 方正兰亭超细黑简体;
+    font-size: 18px;
+    float: left;
+    width: 150px;
+    height: 35px;
+    margin-top: 15px
+}
+
+.huayu1 {
+    width: 1500px;
+    height: 200px;
+}
+
+.huayu1 img,
+p,
+h3 {
+    float: left
+}
+
+.huayu1 h3 {
+    margin-left: 200px
+}
+
+.huayu1 p {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -100px
+}
+
+.huayu1 img {
+    margin-left: 350px;
+}
+
+.huayu2 {
+    width: 1500px;
+    height: 200px;
+}
+
+.huayu2 img,
+p h3 {
+    float: left
+}
+
+.huayu2 h3 {
+    margin-left: 200px
+}
+
+.huayu2 p {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -100px
+}
+
+.huayu2 img {
+    margin-left: 271px;
+}
+
+.huayu3 {
+    width: 100%;
+    height: 200px;
+}
+
+.huayu3 img,
+p h3 {
+    float: left
+}
+
+.huayu3 h3 {
+    margin-left: 200px
+}
+
+.huayu3 p {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -100px
+}
+
+.huayu3 img {
+    margin-left: 316px;
+}
+
+.huayu4 {
+    width: 1500px;
+    height: 200px;
+}
+
+.huayu4 img,
+p h3 {
+    float: left
+}
+
+.huayu4 h3 {
+    margin-left: 200px
+}
+
+.huayu4 p {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -100px
+}
+
+.huayu4 img {
+    margin-left: 407px;
+}
+
+.footer {
+    width: 1500px;
+    height: 80px;
+}
+
+.footer p {
+    font-size: 30px;
+    line-height: 80px;
+    padding-left: 230px
+}
